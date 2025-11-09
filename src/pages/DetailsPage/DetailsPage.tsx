@@ -4,10 +4,17 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import type { Brief } from '../../types/brief';
 import { Calculator } from '../../modules/Calculator';
 
+function endsWithXNumber(str: string): boolean {
+  return /x\d+$/.test(str);
+}
+
+
 export const DetailsPage: React.FC = () => {
     const location = useLocation();
     const navigate = useNavigate();
     const { brief } = location.state as { brief: Brief };
+
+    const isCalculatorVisible = endsWithXNumber(brief.name);
 
     return (
         <div className="detalis">
@@ -32,7 +39,7 @@ export const DetailsPage: React.FC = () => {
 
                 <div className='line'></div>
 
-                <Calculator brief={brief} />
+                {!isCalculatorVisible && <Calculator brief={brief} />}
             </div>
         </div>
     );
