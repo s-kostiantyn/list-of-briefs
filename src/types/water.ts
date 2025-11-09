@@ -1,0 +1,1 @@
+export type Water = 1.7 | 2.4;

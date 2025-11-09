@@ -1,0 +1,1 @@
+export type Bucket = 13 | 11 | 10 | 8 | 5 | 'trayX4' | 'trayX6';

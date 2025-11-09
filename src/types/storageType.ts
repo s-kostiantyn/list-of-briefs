@@ -1,0 +1,1 @@
+export type TypeOfStorage = 'inpak' | 'trawsport' | 'salo';

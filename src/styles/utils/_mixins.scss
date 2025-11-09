@@ -1,0 +1,19 @@
+@use '../../styles/utils/vars' as vars;
+
+@mixin on-mobile {
+  @media (max-width: vars.$modile) {
+    @content;
+  }
+}
+
+@mixin on-tablet {
+  @media (max-width: vars.$tablet) {
+    @content;
+  }
+}
+
+@mixin on-laptop {
+  @media (max-width: vars.$laptop) {
+    @content;
+  }
+}
