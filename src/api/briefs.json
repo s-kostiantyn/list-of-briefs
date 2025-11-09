@@ -102,5 +102,18 @@
         "typeOfBucket": "trayX4",
         "bouquets": 4,
         "addInfo": ""
+    },
+    {
+        "id": 8,
+        "storeType": "REWE",
+        "name": "Rewe Surprise",
+        "image": "",
+        "buckets": 32,
+        "yellowKeychain": false,
+        "typeOfStorage": "inpak",
+        "water": 1.7,
+        "typeOfBucket": 5,
+        "bouquets": 6,
+        "addInfo": ""
     }
 ]
