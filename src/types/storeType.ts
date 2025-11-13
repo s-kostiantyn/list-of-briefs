@@ -7,4 +7,4 @@ export type StoreType =
 'PLANTORAMA' | 'DOR' | 'Richter' |
 'Vomar' | 'Coop' | 'RVE' | 
 'Hein' | 'TPCFP' | 'RZ' |
-'SAGA' | 'INTRA' | 'FarmH';
+'SAGA' | 'INTRA' | 'FarmH' | 'L.Hein';

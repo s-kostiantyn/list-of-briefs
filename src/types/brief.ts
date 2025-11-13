@@ -14,5 +14,7 @@ export interface Brief {
     water: Water;
     typeOfBucket: Bucket;
     bouquets: number;
+    colors: number,
+    length: number,
     addInfo: string | null;
 }

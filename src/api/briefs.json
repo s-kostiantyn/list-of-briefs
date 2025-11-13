@@ -10,12 +10,14 @@
         "water": 1.7,
         "typeOfBucket": "trayX6",
         "bouquets": 1,
+        "colors": 1,
+        "length": 25,
         "addInfo": ""
     },
     {
         "id": 1,
         "storeType": "Penny",
-        "name": "Penny Wochenende StrauB B",
+        "name": "Penny Wochenende StrauB",
         "image": "",
         "buckets": 32,
         "yellowKeychain": false,
@@ -23,6 +25,8 @@
         "water": 1.7,
         "typeOfBucket": 10,
         "bouquets": 2,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     },
     {
@@ -36,6 +40,8 @@
         "water": 1.7,
         "typeOfBucket": 10,
         "bouquets": 8,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     },
     {
@@ -49,6 +55,8 @@
         "water": 1.7,
         "typeOfBucket": 10,
         "bouquets": 8,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     },
     {
@@ -62,6 +70,8 @@
         "water": 1.7,
         "typeOfBucket": 10,
         "bouquets": 3,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     },
     {
@@ -75,6 +85,8 @@
         "water": 2.4,
         "typeOfBucket": 11,
         "bouquets": 4,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     },
     {
@@ -88,6 +100,8 @@
         "water": 1.7,
         "typeOfBucket": 10,
         "bouquets": 9,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     },
     {
@@ -101,12 +115,14 @@
         "water": 1.7,
         "typeOfBucket": "trayX4",
         "bouquets": 4,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     },
     {
         "id": 8,
         "storeType": "REWE",
-        "name": "Rewe Surprise",
+        "name": "REWE Str. Surprise",
         "image": "",
         "buckets": 32,
         "yellowKeychain": false,
@@ -114,6 +130,68 @@
         "water": 1.7,
         "typeOfBucket": 5,
         "bouquets": 6,
+        "colors": 1,
+        "length": 0,
+        "addInfo": ""
+    },
+    {
+        "id": 9,
+        "storeType": "RVE",
+        "name": "RVE BQ Koffie A 9,99",
+        "image": "",
+        "buckets": 36,
+        "yellowKeychain": true,
+        "typeOfStorage": "trawsport",
+        "water": 1.0,
+        "typeOfBucket": "trayX6",
+        "bouquets": 3,
+        "colors": 2,
+        "length": 0,
+        "addInfo": ""
+    },
+    {
+        "id": 10,
+        "storeType": "Vomar",
+        "name": "Vomar Luxe Rozen 50cm x8",
+        "image": "",
+        "buckets": 32,
+        "yellowKeychain": true,
+        "typeOfStorage": "trawsport",
+        "water": 1.7,
+        "typeOfBucket": 10,
+        "bouquets": 8,
+        "colors": 1,
+        "length": 0,
+        "addInfo": ""
+    },
+    {
+        "id": 11,
+        "storeType": "REWE",
+        "name": "Rewe Blumen Beautiful",
+        "image": "",
+        "buckets": 32,
+        "yellowKeychain": false,
+        "typeOfStorage": "inpak",
+        "water": 1.7,
+        "typeOfBucket": 10,
+        "bouquets": 3,
+        "colors": 1,
+        "length": 0,
+        "addInfo": ""
+    },
+    {
+        "id": 12,
+        "storeType": "L.Hein",
+        "name": "L.Hein bkt kaffee",
+        "image": "",
+        "buckets": 18,
+        "yellowKeychain": false,
+        "typeOfStorage": "inpak",
+        "water": 1.7,
+        "typeOfBucket": 10,
+        "bouquets": 3,
+        "colors": 1,
+        "length": 0,
         "addInfo": ""
     }
 ]
